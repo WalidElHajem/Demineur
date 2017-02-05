@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Mineswifter
-//
-//  Created by Benjamin Reynolds on 7/26/14.
-//  Copyright (c) 2014 MakeGamesWithUs. All rights reserved.
-//
+
 
 import UIKit
 

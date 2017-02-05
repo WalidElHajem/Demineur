@@ -1,10 +1,4 @@
-//
-//  SquareButton.swift
-//  Mineswifter
-//
-//  Created by Benjamin Reynolds on 7/27/14.
-//  Copyright (c) 2014 MakeGamesWithUs. All rights reserved.
-//
+
 
 import UIKit
 
