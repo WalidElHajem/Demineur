@@ -11,7 +11,6 @@ il y a 3 niveaux de difficultés débutant , moyen et expert
 Si toutes les cases sauf les mines ont été ouvertes, vous gagnez, si vous tombez sur une mine vous perdez.
   
 Installation :
-<<<<<<< Updated upstream
  
 Aucun gestionnaire de dependance , avec un simple telechargement vous pouvez commencer a jouer
 =======
@@ -19,14 +18,9 @@ Aucun gestionnaire de dependance , avec un simple telechargement vous pouvez com
 
 Téléchargez le projet depuis github et commencer a jouer
   
->>>>>>> Stashed changes
 Xcode version 6+
   
 
 Les points a améliorer :
   
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 Le design
